@@ -1,7 +1,0 @@
-[user]
-	name = lawson ekane
-	email = lawson.ekane@yahoo.com
-[merge]
-	conflictstyle = diff3
-[color]
-	ui = auto
