@@ -5,7 +5,7 @@ import numpy as np
 CITY_DATA = { 'charlotte': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv', 'baltimore': 'baltimore.csv', 'new_jersey': 'new_jersey.csv'}
-
+##my new changes
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
